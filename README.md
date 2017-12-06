@@ -1,0 +1,2 @@
+# Beanstalk image using Alpine
+
